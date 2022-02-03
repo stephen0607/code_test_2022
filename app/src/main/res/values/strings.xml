@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeTest01</string>
+    <string name="get_data">Get Data</string>
+    <string name="sort_list">Sort List</string>
+</resources>
